@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.text{
+    color: white;
+    padding: 40px;
+}
+.text1{
+    color: white;
+    padding: 20px;
+}
+
+
+.esas{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 99%;
+    height:  820px;
+    width: 100%;
+    background-image: url(./Screenshot\ 2024-08-12\ 014958.png);
+    
+}
+
+.navbar{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    gap: 10px;
+    background-color: rgb(0, 0, 0);
+}
+.navici{
+    display: flex;
+ 
+}
+.nav2{
+    display: flex;
+    width: 20%;
+    gap: 115px;
+}
+ 
+.nav3{
+    display: flex;
+    width: 85%;
+    gap: 30px;
+}
+
+.menu{
+    margin-top: 100px;
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+}
+
+.ort1{
+    margin-top: 25%;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.767);
+}
+.ort2{
+    margin-top: 25%;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.500);
+}
+.ort3{
+    margin-top: 25%;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.500);
+}
+.button{
+color: gold;
+    width: 100px;
+    height: 28px;
+    border-radius: 20px;
+    border: 2px solid gold;
+    background-color: rgb(0, 0, 0)
+  
+}
+
+.button:hover{
+    width: 100px;
+    height: 28px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    background-color: gold;
+}
